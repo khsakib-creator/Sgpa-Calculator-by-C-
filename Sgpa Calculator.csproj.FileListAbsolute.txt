@@ -1,0 +1,15 @@
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\bin\Debug\net6.0\Sgpa Calculator.exe
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\bin\Debug\net6.0\Sgpa Calculator.deps.json
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\bin\Debug\net6.0\Sgpa Calculator.runtimeconfig.json
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\bin\Debug\net6.0\Sgpa Calculator.dll
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\bin\Debug\net6.0\ref\Sgpa Calculator.dll
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\bin\Debug\net6.0\Sgpa Calculator.pdb
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\obj\Debug\net6.0\Sgpa Calculator.csproj.AssemblyReference.cache
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\obj\Debug\net6.0\Sgpa Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\obj\Debug\net6.0\Sgpa Calculator.AssemblyInfoInputs.cache
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\obj\Debug\net6.0\Sgpa Calculator.AssemblyInfo.cs
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\obj\Debug\net6.0\Sgpa Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\obj\Debug\net6.0\Sgpa Calculator.dll
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\obj\Debug\net6.0\ref\Sgpa Calculator.dll
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\obj\Debug\net6.0\Sgpa Calculator.pdb
+C:\Users\Sakibul Habib\Documents\visual by sakib\Sgpa Calculator\Sgpa Calculator\obj\Debug\net6.0\Sgpa Calculator.genruntimeconfig.cache
